@@ -8,4 +8,4 @@ This video will show you how to build a restaurant website using HTML Css Javasc
 
 <h2> Ekran Gifi </h2>
 
-![] (ekran.gif)
+![](ekran.gif)
